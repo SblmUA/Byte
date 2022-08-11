@@ -53,6 +53,14 @@ body{
     color: black;
     transition: 300ms;
 }
+.button-violet:hover{
+    background-color: #3b3bc0;
+    transition: 300ms;
+}
+.button-transparent:hover{
+    background-color: #bfbfbf;
+    transition: 300ms;
+}
 .button{
     width: 212px;
     height: 60px;
